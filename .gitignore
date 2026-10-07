@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+cmake-build*/
+
+# Editor / OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Compiled outputs
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Logs
+*.log
